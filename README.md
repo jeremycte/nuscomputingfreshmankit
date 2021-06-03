@@ -5,6 +5,41 @@
 ## At a Glance 🔥
 Welcome to NUS SOC Freshman starter kit codebase for managing [nuscomputingfreshmankit.surge.sh](https://nuscomputingfreshmankit.surge.sh) which is coded in HTML, CSS, Jquery and Javascript.
 
+## Getting Started 🙌
+1. To start off this project, first download the zip file of the entire repo into your computer (by clicking the green download code icon shown below). Store the folder in a desired location where you'll access it often.
+
+    ![Download Code Green Btn](https://res.cloudinary.com/jeremycte/image/upload/v1622735446/download_code_eto9hj.png "Figure 1")
+
+2. Extract the zip and open the folder using your preferred editor. I personally use Visual Code. Any editor works fine as long as it supports HTML, CSS and Javascript. 
+
+3. Next, ensure your computer has git built into your computer. If not visit this link and download it, https://git-scm.com/downloads
+
+This ensure you can use git and perform pull, push and commit changes to the Github Repository
+
+4. Connect the entire downloaded folder to the Github Repo. Inside your preferred editor, open Git Bash Terminal (e.g. shown below) You should not have any **(main)** blue colour wording yet
+
+    ![Gitbash Terminal Example](https://res.cloudinary.com/jeremycte/image/upload/v1622735898/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
+
+5. Type in ```git init```. Ensure your bash terminal is in the right folder, it should be in the main directory. Eg. for mine is /code/nuscomputingfreshman folder where the index.html, 404.html, favicon.ico files and images and css folder can be found. 
+- this is to intialize the git command into the folder. 
+- initialising in the wrong folder can lead to the git not working properly :)
+
+6. Next, enter ```git remote add origin https://github.com/jeremycte/nuscomputingfreshmankit.git```
+
+7. Next, enter ```git branch -M main```
+
+8. This time, you should have the (main) blue colour logo shown
+![Gitbash Terminal Example](https://res.cloudinary.com/jeremycte/image/upload/v1622735898/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
+
+9. You have completed linking the repo to your code editor.
+
+10. Some commands you can try include ```git status```, ```git branch``` which allows you to view the status of unsynced files from the repo and the branch allows you to view all the branches that exists in the repo. ``` git pull``` allows you to pull the latest code from the repo to your computer everytime someone edits and publishes his/her code to the repository.
+
+Below is an example after typing ```git branch```
+
+![Git Branches](https://res.cloudinary.com/jeremycte/image/upload/v1622736487/repobranchesnuscomputingfreshmankit_hnryjf.png "Git Branches")
+
+
 ## Folder Structure 📂
 Each folder is organised to keep the workspace clean and simple to use.
 Every file is organised into folders accordingly and only the html, favicon and readme files are located in the root (main directory).
