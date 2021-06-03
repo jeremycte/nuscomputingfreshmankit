@@ -1,6 +1,6 @@
 # Welcome to NUS SOC Freshman Starter Kit Codebase
 
-![NUS SOC FRESHMAN STARTER KIT Website Screenshot](https://res.cloudinary.com/jeremycte/image/upload/v1622660053/nuscomputingfreshmankit_homepage_nnjpp8.png)
+![NUS SOC FRESHMAN STARTER KIT Website Screenshot](https://res.cloudinary.com/jeremycte/image/upload/v1622719287/freshmankit-enterpage_d1vb3n.png)
 
 ## At a Glance 🔥
 Welcome to NUS SOC Freshman starter kit codebase for managing [nuscomputingfreshmankit.surge.sh](https://nuscomputingfreshmankit.surge.sh) which is coded in HTML, CSS, Jquery and Javascript.
@@ -43,6 +43,8 @@ Please open styles.html to see what are the available styles that you can use fo
 ## 404.html Error Page 📄
 There's an error page dedicated to ensure that any incorrect link or subdirectory that do not exists will immediately direct the user to this error page shown below.
 
+
+![NUS SOC FRESHMAN STARTER KIT Error Page](https://res.cloudinary.com/jeremycte/image/upload/v1622725536/freshmankit-errorpage_mdw7rw.png)
 
 ## Miscellaneous 🕵️‍♀️
 I've used the following resources as listed.
