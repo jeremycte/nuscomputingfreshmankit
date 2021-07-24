@@ -14,6 +14,8 @@ Welcome to NUS SOC Freshman starter kit codebase for managing [nuscomputingfresh
 
 3. Next, ensure your computer has git built into your computer. If not visit this link and download it, https://git-scm.com/downloads
 
+[Learn more ahout Git in this link for beginners.](https://towardsdatascience.com/an-easy-beginners-guide-to-git-2d5a99682a4c)
+
 This ensure you can use git and perform pull, push and commit changes to the Github Repository
 
 4. Connect the entire downloaded folder to the Github Repo. Inside your preferred editor, open Git Bash Terminal (e.g. shown below) You should not have any **(main)** blue colour wording yet
