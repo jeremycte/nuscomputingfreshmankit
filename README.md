@@ -1,6 +1,6 @@
 # Welcome to NUS SOC Freshman Starter Kit Codebase
 
-![NUS SOC FRESHMAN STARTER KIT Website Screenshot](https://res.cloudinary.com/jeremycte/image/upload/v1622719287/freshmankit-enterpage_d1vb3n.png)
+![NUS SOC FRESHMAN STARTER KIT Website Screenshot](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/freshmankit-enterpage_d1vb3n.png)
 
 ## At a Glance 🔥
 Welcome to NUS SOC Freshman starter kit codebase for managing [nuscomputingfreshmankit.surge.sh](https://nuscomputingfreshmankit.surge.sh) which is coded in HTML, CSS, Jquery and Javascript.
@@ -8,7 +8,7 @@ Welcome to NUS SOC Freshman starter kit codebase for managing [nuscomputingfresh
 ## Getting Started 🙌
 1. To start off this project, first download the zip file of the entire repo into your computer (by clicking the green download code icon shown below). Store the folder in a desired location where you'll access it often.
 
-    ![Download Code Green Btn](https://res.cloudinary.com/jeremycte/image/upload/v1622735446/download_code_eto9hj.png "Figure 1")
+    ![Download Code Green Btn](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/download_code_eto9hj.png "Figure 1")
 
 2. Extract the zip and open the folder using your preferred editor. I personally use Visual Code. Any editor works fine as long as it supports HTML, CSS and Javascript. 
 
@@ -20,7 +20,7 @@ This ensure you can use git and perform pull, push and commit changes to the Git
 
 4. Connect the entire downloaded folder to the Github Repo. Inside your preferred editor, open Git Bash Terminal (e.g. shown below) You should not have any **(main)** blue colour wording yet
 
-    ![Gitbash Terminal Example](https://res.cloudinary.com/jeremycte/image/upload/v1622735898/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
+    ![Gitbash Terminal Example](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
 
 5. Type in ```git init```. Ensure your bash terminal is in the right folder, it should be in the main directory. Eg. for mine is /code/nuscomputingfreshman folder where the index.html, 404.html, favicon.ico files and images and css folder can be found. 
 - this is to intialize the git command into the folder. 
@@ -31,7 +31,7 @@ This ensure you can use git and perform pull, push and commit changes to the Git
 7. Next, enter ```git branch -M main```
 
 8. This time, you should have the (main) blue colour logo shown
-![Gitbash Terminal Example](https://res.cloudinary.com/jeremycte/image/upload/v1622735898/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
+![Gitbash Terminal Example](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/gitbashterminal_tnw1gm.png "Git Bash Terminal Example")
 
 9. You have completed linking the repo to your code editor.
 
@@ -39,7 +39,7 @@ This ensure you can use git and perform pull, push and commit changes to the Git
 
 Below is an example after typing ```git branch```
 
-![Git Branches](https://res.cloudinary.com/jeremycte/image/upload/v1622736487/repobranchesnuscomputingfreshmankit_hnryjf.png "Git Branches")
+![Git Branches](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/repobranchesnuscomputingfreshmankit_hnryjf.png "Git Branches")
 
 
 ## Folder Structure 📂
@@ -75,13 +75,13 @@ The site is hosted on Surge.sh a free front-end dev platform :)
 ## Creating Consistent Styles for the Webpage 👗
 Please open styles.html to see what are the available styles that you can use for coding the website 😃 This ensure consistency and also utilise the existing code that can help you code this site to be even better!
 
-![styles.html screenshot page](https://res.cloudinary.com/jeremycte/image/upload/v1622658386/FOWstyles_wutlra.png)
+![styles.html screenshot page](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/FOWstyles_wutlra.png)
 
 ## 404.html Error Page 📄
 There's an error page dedicated to ensure that any incorrect link or subdirectory that do not exists will immediately direct the user to this error page shown below.
 
 
-![NUS SOC FRESHMAN STARTER KIT Error Page](https://res.cloudinary.com/jeremycte/image/upload/v1622725536/freshmankit-errorpage_mdw7rw.png)
+![NUS SOC FRESHMAN STARTER KIT Error Page](https://github.com/jeremycte/nuscomputingfreshmankit/blob/main/freshmankit-errorpage_mdw7rw.png)
 
 ## Miscellaneous 🕵️‍♀️
 I've used the following resources as listed.
